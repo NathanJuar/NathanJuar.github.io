@@ -4,7 +4,7 @@ This is my home page! My name is Nathan Juarez and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/NathanJuar.
+My GitHub page is [http://github.com/NathanJuar.](http://github.com/NathanJuar)
 
 ### CPSC 120
 
