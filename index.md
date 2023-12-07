@@ -1,9 +1,12 @@
-# Nathan Juarez's portfolio
+# Hello World
 
-I am a computer science major at CSUF and I plan on graduating in 2027.
+This is my home page! My name is Nathan Juarez and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
 
+## Computer Science Projects
 
-## Favorite CPSC 120L labs 
+My GitHub page is http://github.com/NathanJuar.
+
+### CPSC 120
 
 Lab 07, part 1 
 
